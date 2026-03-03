@@ -1,2 +1,3 @@
-💻 Language Stats
+## 💻 Language Stats
+
 ![Language Stats](./language-stats.svg)
